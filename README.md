@@ -28,3 +28,7 @@ Microsoft Azure
 # Top Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tola-adelase)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tola-adelase&hide=javascript,html)
+# Extra Pin
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/Tola-adelase/repo-name)
+

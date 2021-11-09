@@ -2,7 +2,7 @@
 
 
 ## Profile
-I am a proactive, committed, and enthused graduate of Information technology (BSc.) and Data science (MSc.) with over two years work experience in IT support, End User Support, Front-end deleovpment, Data analysis, Microsoft Azure and Solution softwares seeking opportunities in an organization where I can harness my knowledge and experience to help achieve beyond the sustained growth. Working towards a career as a data scientist.
+I am a proactive, committed, and enthused graduate of Information technology (BSc.) and Data science (MSc.) with over two years work experience in IT support, End User Support, Front-end deleovpment, Data analysis, Microsoft Azure and Solution softwares, seeking opportunities in an organization where I can harness my knowledge and experience to help achieve beyond the sustained growth. Working towards a career as a data scientist.
 
 ## Programming Languages
 * Python

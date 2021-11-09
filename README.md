@@ -7,6 +7,11 @@ I am a proactive, committed, and enthused graduate of Information technology (BS
 ## Programming Languages
 * Python
 * SQL
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* JQuery
 * R Studio
 * MATLAB
 
@@ -23,8 +28,12 @@ I am a proactive, committed, and enthused graduate of Information technology (BS
 * MATLAB
 * Microsoft Azure
 
+
+
 ## Stats Card
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tola-adelase&theme=highcontrast&show_icons=true&count_private=true)
+
+
 
 ## Top Languages Card
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Tola-adelase)

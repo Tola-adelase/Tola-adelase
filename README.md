@@ -20,7 +20,7 @@ I am a proactive, committed, and enthused graduate of Information technology (BS
 * Deep Learning
 * Natural Language Processing
 * Time Series Analysis
-* Data Wrangling and Analysing. 
+* Data Wrangling and Analysing
 * Data Visualisation and Communication
 
 ## Database Management

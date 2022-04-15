@@ -1,4 +1,4 @@
-# Adetola Habeeb Adelase. - Data Analyst | Front-end Developer | System Support Engineer.
+# Adetola Habeeb Adelase. - Data Analyst & Scientist | Front-end Developer | System Support Engineer.
 
 
 ## Profile

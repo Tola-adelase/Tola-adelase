@@ -28,6 +28,9 @@ I am a proactive, committed, and enthused graduate of Information technology (B.
 * Tableau
 * MATLAB
 * Microsoft Azure
+* dbt
+* Salesforce
+* Zoura Billing System
 
 
 
